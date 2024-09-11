@@ -1,0 +1,12 @@
+li{
+    font-size: 30px;
+    display: inline;
+    margin-left: 60px;
+}
+body{
+color:aliceblue;
+text-align: center;
+background-image: url("https://media.istockphoto.com/id/1308986719/photo/yellow-question-mark-on-a-background-of-black-signs-faq-concept.jpg?s=1024x1024&w=is&k=20&c=7Ax9LaQVw7dQUC99Q5woXckvdEV1rcWblPVsyU-Q73Y=");
+background-repeat: no-repeat;
+background-size: cover;
+};
